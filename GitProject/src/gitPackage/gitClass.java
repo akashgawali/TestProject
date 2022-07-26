@@ -6,6 +6,7 @@ public class gitClass {
 		System.out.println("Hi Selenium");
 		System.out.println("Hello TestNG");
 		System.out.println("Heloo Shammi");
+		System.out.println("hello");
 	}
 
 }
